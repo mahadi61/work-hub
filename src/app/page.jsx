@@ -1,9 +1,8 @@
 const Home = () => {
   return (
     <main>
-      hero
-      features
-      ...
+      
+      
     </main>
   );
 };
