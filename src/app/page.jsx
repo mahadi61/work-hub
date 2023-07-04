@@ -1,9 +1,9 @@
+import FeaturedJobs from "@/blocks/FeaturedJobs/FeaturedJobs";
+
 const Home = () => {
   return (
     <main>
-      hero
-      features
-      ...
+      <FeaturedJobs/>
     </main>
   );
 };

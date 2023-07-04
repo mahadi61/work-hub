@@ -1,0 +1,69 @@
+[
+    {
+      "id": "fj-1",
+      "title": "Data Entry Specialist",
+      "price": 20,
+      "clientName": "John Smith",
+      "clientPhotoURL": "https://images.pexels.com/photos/16578443/pexels-photo-16578443/free-photo-of-man-in-jacket-posing-on-meadow.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "jobType": "Part Time",
+      "postedTime": "1 day ago",
+      "jobDescription": "Freelance data entry specialist needed for accurate and efficient data processing.",
+      "experienceLevel": "Expert"
+    },
+    {
+      "id": "fj-2",
+      "title": "Graphic Designer",
+      "price": 50,
+      "clientName": "Emma Thompson",
+      "clientPhotoURL": "https://images.pexels.com/photos/3613388/pexels-photo-3613388.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "jobType": "Part Time",
+      "postedTime": "4 day ago",
+      "jobDescription": "Seeking freelance graphic designer for creative and visually appealing designs.",
+      "experienceLevel": "Entry"
+    },
+    {
+      "id": "fj-3",
+      "title": "Web Developer",
+      "price": 60,
+      "clientName": "Michael Johnson",
+      "clientPhotoURL": "https://images.pexels.com/photos/2537658/pexels-photo-2537658.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "jobType": "Part Time",
+      "postedTime": "2 day ago",
+      "jobDescription": "Looking for web developer to build responsive and user-friendly websites.",
+      "experienceLevel": "Expert"
+    },
+    {
+      "id": "fj-4",
+      "title": "Content Writer",
+      "price": 30,
+      "clientName": "Sarah Davis",
+      "clientPhotoURL": "https://images.pexels.com/photos/7640743/pexels-photo-7640743.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "jobType": "Part Time",
+      "postedTime": "3 day ago",
+      "jobDescription": "Hiring freelance content writer for engaging and informative written content.",
+      "experienceLevel": "Intermediate"
+    },
+    {
+      "id": "fj-5",
+      "title": "Social Media Manager",
+      "price": 40,
+      "clientName": "Amanda Rodriguez",
+      "clientPhotoURL": "https://images.pexels.com/photos/3211476/pexels-photo-3211476.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "jobType": "Part Time",
+      "postedTime": "2 day ago",
+      "jobDescription": "Seeking freelance social media manager for strategic social media campaigns.",
+      "experienceLevel": "Intermediate"
+    },
+    {
+      "id": "fj-6",
+      "title": "Video Editor",
+      "price": 45,
+      "clientName": "Christopher Lee",
+      "clientPhotoURL": "https://images.pexels.com/photos/3370021/pexels-photo-3370021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "jobType": "Part Time",
+      "postedTime": "5 day ago",
+      "jobDescription": "Hiring freelance social video editor for captivating and compelling video content.",
+      "experienceLevel": "Entry"
+    }
+  ]
+  
