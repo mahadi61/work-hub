@@ -1,9 +1,9 @@
+import Banner from "@/blocks/Banner/Banner";
+
 const Home = () => {
   return (
     <main>
-      hero
-      features
-      ...
+      <Banner></Banner>
     </main>
   );
 };
