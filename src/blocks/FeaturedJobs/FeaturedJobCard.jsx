@@ -29,7 +29,7 @@ const FeaturedJobCard = ({ job }) => {
                     <h3 className="h5 text-green-900">{title}</h3>
                     <span className="px-2 py-1 bg-green-500/10 font-medium text-xs text-green-900 w-fit rounded-full">{jobType}</span>
                 </div>
-                <div className="flex justify-between gap-2">
+                <div className="flex justify-between gap-2 w-full">
                     <div>
                         <p className="p text-green-900 font-medium">${price}</p>
                         <p className="p">Fixed Price</p>
