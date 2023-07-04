@@ -50,6 +50,7 @@ const Banner = () => {
           <h3 className="text-base">Devon Lie</h3>
           <p className="text-sm">Web developer</p>
           <p className="text-yellow-400 flex gap-1">
+            {/* star icon */}
             <BsStarFill />
             <BsStarFill />
             <BsStarFill />
