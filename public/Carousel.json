@@ -1,0 +1,24 @@
+[
+    {
+        "id": "cj-1",
+        "title": "Lorem ipsum dolor sit amet.",
+        "PhotoURL": "https://i.ibb.co/k2w2hC8/carousel1.png",
+        "date": "May 8, 2020",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse sed magna eget nibh in turpis. Consequat duis diam lacus arcu. Faucibus venenatis felis id augue sit cursus pellentesque enim arcu."
+    },
+    {
+        "id": "cj-2",
+        "title": "Lorem ipsum dolor sit amet.",
+        "PhotoURL": "https://i.ibb.co/2SXmpN7/carousel2.png",
+        "date": "May 8, 2020",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse sed magna eget nibh in turpis. Consequat duis diam lacus arcu. Faucibus venenatis felis id augue sit cursus pellentesque enim arcu."
+    },
+    {
+        "id": "cj-3",
+        "title": "Lorem ipsum dolor sit amet.",
+        "PhotoURL": "https://i.ibb.co/k2w2hC8/carousel1.png",
+        "date": "May 8, 2020",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse sed magna eget nibh in turpis. Consequat duis diam lacus arcu. Faucibus venenatis felis id augue sit cursus pellentesque enim arcu."
+    }
+]
+  
