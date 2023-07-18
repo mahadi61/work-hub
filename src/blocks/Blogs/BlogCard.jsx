@@ -12,7 +12,7 @@ const BlogCard = ({ blogData, size }) => {
 
                 <div className='relative'>
                     <Image
-                        className={`rounded-tl-3xl object-cover object-center ${size?'h-40': 'h-full'}`}
+                        className={`rounded-tl-3xl object-cover object-center ${size?'h-40': 'h-full'} w-full`}
                         src={blogImage}
                         width={500}
                         height={400}
