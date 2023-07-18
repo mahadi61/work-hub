@@ -1,10 +1,10 @@
 "use client";
 
-import React, { useState } from "react";
+import Link from "next/link";
+import { useState } from "react";
+import { SlClose, SlMenu } from "react-icons/sl";
 import Container from "../Container/Container";
 import { Searchbar } from "../SearchBar/Searchbar";
-import Link from "next/link";
-import { SlClose, SlMenu } from "react-icons/sl";
 
 export const Navbar = () => {
   const currentUser = false;
@@ -26,7 +26,7 @@ export const Navbar = () => {
   };
 
   return (
-    <div className="bg-primary">
+    <div className="bg-[#129a00]">
       <Container>
         <div className="py-5 flex items-center justify-between">
           <h1 className="font-extrabold text-white text-xl">WorkHub</h1>
@@ -52,7 +52,7 @@ export const Navbar = () => {
                   <Link
                     className={`text-white ${
                       navItem.path === "/signup" &&
-                      "bg-white hover:shadow-md text-primary py-1 px-6 rounded-md font-bold"
+                      "bg-green-800 hover:shadow-md text-primary py-1 px-6 rounded-md font-bold"
                     }`}
                     href={navItem.path}
                     key={index}
