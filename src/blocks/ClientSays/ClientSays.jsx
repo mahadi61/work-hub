@@ -10,7 +10,8 @@ function ClientSays() {
         <section className='py-12'>
             <Container >
                 <div className='bg-blue-100 rounded-lg relative'>
-                    <h1 className='h4 text-blue-600 pt-14 pb-20 text-center'>What Our Clients Say About Us</h1>
+                   
+                    <h3 className="h3 text-green-900 pt-14 pl-5 lg:pl-10 pb-20">What Our Clients Say About Us</h3>
                     <Image
                     className='absolute right-[10%] top-[12%] pb-5'
                         src={imag2}

@@ -21,13 +21,13 @@ const Carousel = () => {
     .then(data=>setCarousel(data))
   }, [])
 
-console.log(carousel)
+// console.log(carousel)
   return (
     <>
       <Swiper
-        sslidesPerView={1.5}
-        spaceBetween={-350}
-        // loop={true}
+        // sslidesPerView={1}
+        // spaceBetween={-350}
+        loop={true}
         centeredSlides={true}
         pagination={{
           clickable: true,
