@@ -4,7 +4,7 @@ import Image from "next/image";
 const FeaturedJobCard = ({ job }) => {
     const { title, price, clientName, clientPhotoURL, jobType, jobDescription, experienceLevel, postedTime } = job;
     return (
-        <div className="bg-white rounded-lg w-full border border-neutral-100 shadow-sm hover:shadow">
+        <div className="bg-white rounded-lg w-full border border-neutral-100 shadow hover:shadow-md">
             <div className="flex justify-between bg-green-50 rounded-t-lg p-4">
                 {/* client info */}
                 <div className="flex flex-col gap-1 shrink-0">

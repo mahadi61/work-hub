@@ -4,19 +4,19 @@
 
 @layer components {
     .h1 {
-        @apply text-3xl sm:text-4xl md:text-5xl font-bold leading-[45px] sm:leading-[50px] md:leading-[60px]
+        @apply text-4xl md:text-5xl font-bold leading-[45px] sm:leading-[50px] md:leading-[60px]
     }
     .h2 {
-        @apply text-2xl sm:text-3xl md:text-4xl font-bold leading-[35px] sm:leading-[40px] md:leading-[50px]
+        @apply text-3xl md:text-4xl font-bold leading-[35px] sm:leading-[40px] md:leading-[50px]
     }
     .h3 {
-        @apply text-xl sm:text-2xl md:text-3xl font-bold leading-[30px] sm:leading-[35px] md:leading-[45px]
+        @apply text-2xl md:text-3xl font-bold leading-[30px] sm:leading-[35px] md:leading-[45px]
     }
     .h4 {
-        @apply text-base sm:text-xl md:text-2xl font-bold leading-[25px] sm:leading-[30px] md:leading-[40px]
+        @apply text-xl md:text-2xl font-bold leading-[25px] sm:leading-[30px] md:leading-[40px]
     }
     .h5 {
-        @apply text-sm sm:text-base md:text-xl font-bold leading-[20px] sm:leading-[25px] md:leading-[35px]
+        @apply text-base md:text-xl font-bold leading-[20px] sm:leading-[25px] md:leading-[35px]
     }
     .p {
         @apply text-sm text-neutral-500

@@ -2,13 +2,13 @@ import Container from '@/components/Container/Container';
 import React from 'react';
 import Image from 'next/image'
 import Marquee from "react-fast-marquee";
-import dropbox from '../../../public/trustedBy/dropbox.png';
-import slack from '../../../public/trustedBy/slack.png';
-import google from '../../../public/trustedBy/google.png';
-import shopify from '../../../public/trustedBy/shopify.png';
+import dropbox from '/public/trustedBy/dropbox.svg';
+import slack from '/public/trustedBy/slack.svg';
+import google from '/public/trustedBy/google.svg'
+import airbnb from '/public/trustedBy/airbnb.svg';
 
 const TrustedBy = () => {
-    const trusted = [dropbox, slack, google, shopify]
+    const trusted = [ dropbox, slack, google, airbnb]
     return (
         <section className="py-12">
             <Container>
@@ -17,10 +17,10 @@ const TrustedBy = () => {
                     {
                         trusted && trusted.map(item => <Image
                             src={item}
-                            width={300}
-                            // height={500}
+                            width={100}
+                            height={100}
                             alt="Picture of the author"
-                            className='px-10'
+                            className='px-10 w-48 h-auto'
                           /> )
                     }
                 </Marquee>
