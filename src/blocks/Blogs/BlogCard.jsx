@@ -29,7 +29,7 @@ const BlogCard = ({ blogData, size }) => {
                     {size || <p className='p text-white py-4'>{blogDescription}</p>}
 
                     {
-                        size && <Link href={`/blog/${id}`}>
+                        size && <Link href={`/blog`}>
                             <button className='text-white hover:text-opacity-80 flex items-center gap-2 border rounded border-white px-4 py-2 hover:border-opacity-80 mt-2'>Read Full <FaArrowRight></FaArrowRight></button>
                         </Link>
                     }
